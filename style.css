@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(224, 243, 218);
+}
+
+table,tr,th,td{
+    border:3px solid #22e2b9;
+    border-collapse: collapse;
+    margin-top: 85px;
+    font-size: 35px;
+}
+table{
+    width: 420px;
+    height: 600px;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: #22e2b9;
+}
